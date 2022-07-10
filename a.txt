@@ -1,2 +1,6 @@
 teste
+<<<<<<< HEAD
 linha rmao master
+=======
+linha modificada
+>>>>>>> teste
